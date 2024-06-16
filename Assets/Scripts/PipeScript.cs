@@ -6,6 +6,7 @@ public class PipeScript : MonoBehaviour
 {
     [SerializeField]
     private float speed = 2.0f;
+
     void Start()
     {
         
